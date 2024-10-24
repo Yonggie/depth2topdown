@@ -4,8 +4,9 @@ This repo runs at omnigibson simulator and visualize the scene by Omniverse Stre
 By the way I have to say sth. bad on the omniverse download website and the documentation. we intend to install the Omniverse launcher but instead [the download website](https://www.nvidia.com/en-in/omniverse/) keeps saying "start developing", and lead you to the Omniverse SDK. Such a mess!
 
 # Usage
-After all installed, you can start to control the camera by keyboard and mouse in Omniverse Streaming Client and construct the top-down map! Something like:
-<video src="./example_usage.mp4"></video>
+After all installed, you can start to control the camera by keyboard and mouse in Omniverse Streaming Client and construct the top-down map! Something like [the example usage](./example_usage.mp4):
+
+<video src="./example_usage.mp4" width="500" height="300"></video>
 
 # Explanation
 1. calculate the camera intrinsic parameters, initialize top-down map and world point cloud.
